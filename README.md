@@ -10,7 +10,7 @@
 git clone https://github.com/shakeer7396/shakeer-portfolio.git
 ```
 ```
-cd me_Himanshu
+cd me_Shakeer
 ```
 ```
 npm install
