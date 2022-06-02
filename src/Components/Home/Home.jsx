@@ -83,7 +83,7 @@ const Home = ({ scrollRef }) => {
 					<h1>{intro}</h1>
 					<div className={styles.btn}>
 						<a
-							href='https://github.com/himrd95/me_Himanshu/blob/main/public/him_resume.pdf'
+							href="/ShaikShakeer_Resume.pdf"
 							target='_blank'
 							rel='noreferrer'
 						>
@@ -109,7 +109,7 @@ const Home = ({ scrollRef }) => {
 					}}
 					className={styles.profileImage}
 				>
-					<img src='/pic.png' alt='Profile pic' />
+					<img src='/avatar.jpg' alt='Profile pic' />
 				</div>
 			</div>
 
@@ -142,9 +142,7 @@ const Home = ({ scrollRef }) => {
 					style={{ color: `${newTheme.para}` }}
 				>
 					<Experiences />
-					{/* "Himanshu is not only great for development, he is a problem
-					solver who always delivers an exceptional quality of work.
-					Highly recommended." */}
+					
 				</div>
 			</div>
 

@@ -68,9 +68,15 @@ const Navbar = () => {
 				>
 					<a href='#home'>Home</a>
 					<a href='#about'>About</a>
-					<a href='#experience'>Experience</a>
+					
 					<a href='#projects'>Projects</a>
-
+					<a
+            href="https://medium.com/@shakeer043/e-commerce-product-selling-website-clone-eb4a3451d06b"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Blog
+          </a>
 					<a href='#contact'>Contact</a>
 				</div>
 				<button

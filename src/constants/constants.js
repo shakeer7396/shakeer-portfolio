@@ -1,4 +1,4 @@
 export const greeting = 'Hi, My name is';
-export const myName = 'Himanshu Dwivedi.';
+export const myName = 'Shaik Shakeer.';
 export const intro =
-	'I am a Full Stack Developer based in Mirzapur. I build things for web.';
+	'I am a Full Stack Developer . I build things for web.';

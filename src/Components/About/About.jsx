@@ -30,7 +30,7 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Himanshu and I enjoy creating things that
+					Hello! My name is Shaik Shakeer and I enjoy creating things that
 					live on the internet. My interest in web development started
 					back last year when I was trying to edit things on the web —
 					taught me a lot about HTML & CSS!. <br />
