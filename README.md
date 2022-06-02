@@ -1,13 +1,13 @@
 # Portfolio
 
-### This is personal Portfolio website. Visit [Portfolio](https://himanshu-dwivedi.netlify.app/)
+### This is personal Portfolio website. Visit [Portfolio]()
 
 ## Build with using
 ### `React `
 
 ## To run this project in the local machine run the following commands:
 ```
-git clone https://github.com/himrd95/me_Himanshu.git
+git clone https://github.com/shakeer7396/shakeer-portfolio.git
 ```
 ```
 cd me_Himanshu

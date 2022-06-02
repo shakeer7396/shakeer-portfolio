@@ -18,11 +18,11 @@ export const projects = [
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
 	{
-		img: '/ProjectImage/pham easy.jpg',
+		img: '/ProjectImages/pham easy.jpg',
 		title: 'Phameasy Clone',
 		des: "An end to end clone of pharmeasy.com medicine and fitness products best-selling app",
 		demo: '',
-		live: 'https://him-todo.netlify.app/',
+		live: 'https://pharmeasy-clone-website.netlify.app',
 		gitHub: "https://github.com/ahmadparvej/pharmeasy-clone",
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
 	},

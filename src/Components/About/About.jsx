@@ -9,14 +9,14 @@ const About = () => {
 	const img =
 		width < 650
 			? 'https://github.com/himrd95/me_Himanshu/blob/main/src/assets/profile_pic_without_background.png?raw=true'
-			: 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
+			: '/developer.gif';
 	return (
 		<div
 			className={styles.container}
 			style={{ boxShadow: `3px 3px 5px ${newTheme.line}` }}
 		>
 			<div className={styles.first}>
-				<img src={"https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true"} alt='' />
+				<img src={"/developer.gif"} alt='' />
 			</div>
 			<div className={styles.second}>
 				<h1
