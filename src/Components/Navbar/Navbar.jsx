@@ -56,7 +56,7 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href=''>
+				<a href='https://shaik-shakeer-portfolio.vercel.app/'>
 					<div className={styles.logo}>
 						<img src='/logo.png' alt='Logo' />
 					</div>
