@@ -44,7 +44,7 @@ const Card = (props) => {
 							: { background: 'none' }
 					}
 				>
-					<h2 style={{ color: `${newTheme.title}` }}>{title}</h2>
+					<h2 style={{ color: `${newTheme.title}`,textAlign:"center" }}>{title}</h2>
 					{width <= 840 && (
 						<Button
 							text='Read More'
@@ -52,14 +52,14 @@ const Card = (props) => {
 							padding='10px 20px'
 						/>
 					)}
-					<p style={{ color: `${newTheme.para}` }}>{des}</p>
+					<p style={{ color: `${newTheme.para}`,textAlign:"center" }}>{des}</p>
 					<div>
 						{technologies.map((technology, index) => (
 							<span
 								key={index}
 								style={{
 									marginLeft: '20px',
-									color: `${newTheme.title}`,
+									color: `${newTheme.title}`,textAlign:"center"
 								}}
 							>
 								{technology}
