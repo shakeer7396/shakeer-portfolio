@@ -67,7 +67,7 @@ const Contact = () => {
 				style={{ color: `${newTheme.para}` }}
 				className={styles.copyright}
 			>
-				Designed and build by Shaik Shakeer, 2022 All rights
+				Designed and build by Shaik Shakeer, 2021 All rights
 				reserved.
 			</div>
 		</footer>
