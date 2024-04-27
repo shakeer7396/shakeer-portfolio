@@ -9,14 +9,24 @@ export const projects = [
 		technologies: ['HTML', 'CSS', 'javaScript','Api','JSON server'],
 	},
 	{
-		img: "/ProjectImages/Rodan.jpeg",
-		title: 'RODAN+FIELDS Clone',
-		des: "A web application to buy any type of skin creams and skin products.",
+		img: "/ProjectImages/Teerex-Store.jpeg",
+		title: 'Teerex-Store Clone',
+		des: "A simple webapp where customers can browse through the catalog of t-shirts, add t-shirts to the shopping cart and checkout the items in the cart.",
 		demo: '',
-		live: "https://rodanandfieldclone.netlify.app/index.html",
-		gitHub: "https://github.com/shubhamvts6/Rodan-Fields-clone",
-		technologies: ['HTML', 'CSS', 'javaScript'],
+		live: "https://geek-trust-omega.vercel.app/",
+		gitHub: "https://github.com/shakeer7396/GeekTrust",
+		technologies: ['HTML', 'CSS', 'javaScript','React.Js'],
 	},
+	{
+		img: "/ProjectImages/GT-Home.png",
+		title: 'Gramthejus-Technologies',
+		des: "Gramthejus Technologies is an emerging global human capital, Recruitment and IT Services organization. Gramthejus is to become a leading company in the precision smart solution provider in Software, Manufacturing, Oil & Gas, Healthcare domains.",
+		demo: '',
+		live: "https://gramthejus.vercel.app/index.html",
+		gitHub: "https://github.com/shakeer7396/Gramthejus",
+		technologies: ['HTML', 'CSS', 'javaScript','Bootstrap'],
+	},
+	
 	{
 		img: '/ProjectImages/pham easy.jpg',
 		title: 'Phameasy Clone',
@@ -24,7 +34,7 @@ export const projects = [
 		demo: '',
 		live: 'https://pharmeasy-clone-website.netlify.app',
 		gitHub: "https://github.com/ahmadparvej/pharmeasy-clone",
-		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
+		technologies: ['HTML', 'CSS', 'javaScript', 'React.Js', 'Redux'],
 	},
 	
 ];
