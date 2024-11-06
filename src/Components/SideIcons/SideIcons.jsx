@@ -13,7 +13,7 @@ const SideIcons = () => {
 				<div className={styles.rightEmail}>
 					<li>
 						<a
-							href='https://www.linkedin.com/in/shaik-shakeer-aa8965236/'
+							href='https://www.linkedin.com/in/shaik-shakeer-46a550310/'
 							aria-label='Linkedin'
 							target='_blank'
 							rel='noreferrer'
